@@ -1,4 +1,4 @@
-# Shipping Platform Landing Page
+# A Simple Shopping Platform Landing Page
 
 A modern, responsive landing page built with **Next.js (App Router)**
 and **Tailwind CSS v4**, designed for international shopping and
